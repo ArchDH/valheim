@@ -1,2 +1,2 @@
 # valheim
-code storage for Valheim Servers
+This is a code repository for Valheim Servers and configuration files.
